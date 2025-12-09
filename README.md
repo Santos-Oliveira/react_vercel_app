@@ -51,13 +51,13 @@ Repositório público conforme solicitado
 ## 📸 Screenshots
 
 ### 🏠 Tela Inicial
-![Home](./screenshots/home.png)
+![Home](./screenshots/home.png.png)
 
 ### 📖 Tela de Detalhes
-![Detalhes](./screenshots/details.png)
+![Detalhes](./screenshots/details.png.png)
 
 ### ❤️ Tela de Favoritos
-![Favoritos](./screenshots/favorites.png)
+![Favoritos](./screenshots/favorites.png.png)
 
 🛠 Como Rodar Localmente
 1️⃣ Clonar o repositório
